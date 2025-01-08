@@ -1,0 +1,19 @@
+.checkBoxGroup {
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+.itemForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.supplierForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
