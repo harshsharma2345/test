@@ -1,11 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 import FormGroup from "@mui/material/FormGroup";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Checkbox from "@mui/material/Checkbox";
 import { useState } from "react";
 import Itemform from "./components/Itemform";
-import Supplierform from "./components/Supplierform";
 import TableList from "./components/TableList";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
